@@ -1,0 +1,96 @@
+Nome,Prioridade
+Serpente Cosmica,45
+
+ID,Nome,Idade,Planeta de Origem
+451,Alice,30,Terra
+278,Bob,25,Marte
+953,Charlie,35,Jupiter
+
+Recurso,Quantidade
+agua,100
+alimentos,500
+combustivel,700
+eletronicos,400
+
+Nome,Prioridade
+Astral Voyager,45
+
+ID,Nome,Idade,Planeta de Origem
+581,David,28,Lua
+882,Eve,22,Plutao
+333,Frank,45,Venus
+
+Recurso,Quantidade
+agua,500
+alimentos,100
+combustivel,400
+metais,76
+
+Nome,Prioridade
+Cruzador Estelar,89
+
+ID,Nome,Idade,Planeta de Origem
+189,Grace,40,Saturno
+247,Hank,33,Urano
+369,Ivy,29,Netuno
+
+Recurso,Quantidade
+agua,631
+alimentos,47
+metais,756
+livros,756
+
+Nome,Prioridade
+Pioneira do Espaco,14
+
+ID,Nome,Idade,Planeta de Origem
+17,John,30,Terra
+24,Kate,27,Marte
+30,Luke,32,Jupiter
+
+Recurso,Quantidade
+agua,789
+materiais de construcao,45
+remedios,478
+alimentos,456
+
+Nome,Prioridade
+Sombra Estelar,13
+
+ID,Nome,Idade,Planeta de Origem
+1789,Olivia,28,Lua
+245,Peter,23,Plutao
+312,Quincy,41,Venus
+
+Recurso,Quantidade
+agua,456
+remedio,789
+combustivel,785
+oxigenio,45
+
+Nome,Prioridade
+Nave Fenix,22
+
+ID,Nome,Idade,Planeta de Origem
+14,Rachel,38,Saturno
+24,Steve,31,Urano
+37,Tina,26,Netuno
+
+Recurso,Quantidade
+agua,458
+alimentos,456
+combustivel,45
+
+Nome,Prioridade
+Estrela Radiante,47
+
+ID,Nome,Idade,Planeta de Origem
+78,Michael,35,Saturno
+29,Sophia,30,Urano
+78,Liam,28,Jupiter
+
+Recurso,Quantidade
+agua,74
+alimentos,45
+remedio,789
+

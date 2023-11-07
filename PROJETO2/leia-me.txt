@@ -1,0 +1,3 @@
+Indica-se ao usuário que execute na IDE CodeBlocks a qual foi feita a implementação.
+
+A explicação de uso tal como o link para a explicação da implementação estão no arquivo (Projeto de ImplementaçãoParte2) em PDF nessa mesma pasta.

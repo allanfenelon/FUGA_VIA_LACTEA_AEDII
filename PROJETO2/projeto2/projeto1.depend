@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1697570028 source:c:\users\allan\onedrive\햞ea de trabalho\heap_p1\projeto1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filadeprioridade.h"
+	"telas.h"
+
+1697580839 source:c:\users\allan\onedrive\햞ea de trabalho\heap_p1\projeto1\filadeprioridade.c
+	<stdio.h>
+	<stdlib.h>
+	"filadeprioridade.h"
+	<time.h>
+
+1697569514 c:\users\allan\onedrive\햞ea de trabalho\heap_p1\projeto1\filadeprioridade.h
+
+1697582947 c:\users\allan\onedrive\햞ea de trabalho\heap_p1\projeto1\telas.h
+	<stdio.h>
+	<stdlib.h>
+	"filadeprioridade.h"
+
+1697654483 source:c:\users\allan\onedrive\햞ea de trabalho\projeto2\filadeprioridade.c
+	<stdio.h>
+	<stdlib.h>
+	"filadeprioridade.h"
+	<time.h>
+
+1697584158 c:\users\allan\onedrive\햞ea de trabalho\projeto2\filadeprioridade.h
+
+1697654145 source:c:\users\allan\onedrive\햞ea de trabalho\projeto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filadeprioridade.h"
+	"telas.h"
+	"permutacao.h"
+
+1697634014 c:\users\allan\onedrive\햞ea de trabalho\projeto2\telas.h
+
+1697654513 c:\users\allan\onedrive\햞ea de trabalho\projeto2\permutacao.h
+
+1697654450 source:c:\users\allan\onedrive\햞ea de trabalho\projeto2\telas.c
+	<stdio.h>
+	<stdlib.h>
+	"filadeprioridade.h"
+
+1697652765 source:c:\users\allan\onedrive\햞ea de trabalho\projeto2\permutacao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"filadeprioridade.h"
+	"telas.h"
+	"permutacao.h"
+
